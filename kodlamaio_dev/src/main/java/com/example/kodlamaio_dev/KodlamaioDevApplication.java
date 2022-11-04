@@ -1,5 +1,6 @@
 package com.example.kodlamaio_dev;
 
+import com.example.kodlamaio_dev.entities.concretes.SoftwareLanguage;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
