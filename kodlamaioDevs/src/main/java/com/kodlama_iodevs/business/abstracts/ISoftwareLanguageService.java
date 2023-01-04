@@ -9,5 +9,6 @@ public interface ISoftwareLanguageService {
     List<GetAllLanguageResponse> getAll();
     void add(CreateLanguageRequest createLanguageRequest) throws Exception;
     void delete(CreateLanguageRequest createLanguageRequest);
-    void update(CreateLanguageRequest createLanguageRequest);
+
+
 }
